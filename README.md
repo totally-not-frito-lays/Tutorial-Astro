@@ -8,7 +8,11 @@ npm create astro@latest -- --template minimal
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🧑‍🚀 About
+
+> This repo is a completed base project built in Astro. I intend to keep 
+> using this repo to test out new ideas or concepts inside Astro. Each new 
+> feature will be tested and built in isolation as a branch of the main project.
 
 ## 🚀 Project Structure
 
