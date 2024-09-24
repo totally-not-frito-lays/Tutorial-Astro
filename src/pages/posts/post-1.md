@@ -21,3 +21,5 @@ tags: ["astro", "blogging", "learning in public"]
 ## What's next
 
 I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+
+this is a new thing
